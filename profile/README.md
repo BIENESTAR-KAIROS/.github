@@ -12,4 +12,4 @@
 
 Aquí llevamos el control y desarollo de los productos que ofrecemos en KAIROS para más información visita [nuestra página](https://bienestarkairos.com).
 
-![nuestra página](https://bienestarkairos.com)
+![Nuestro pandi-logo](assets/images/logo.png)
