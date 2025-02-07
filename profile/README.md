@@ -12,4 +12,8 @@
 
 Aquí llevamos el control y desarollo de los productos que ofrecemos en KAIROS para más información visita [nuestra página](https://bienestarkairos.com).
 
-![Nuestro pandi-logo](assets/images/logo.png)
+<div style="height: 300px; display: flex; align-items: center; justify-content: center;">
+    <img src="assets/images/logo.png" />
+</div>
+
+[Kairos](bienestarkairos.com) _by_ [Siatsa](siatsa.com). Somos una empresa enfocada en la salud mental de nuestros __clientes__ e __instituciones__.
