@@ -12,7 +12,7 @@
 
 Aquí llevamos el control y desarollo de los productos que ofrecemos en KAIROS para más información visita [nuestra página](https://bienestarkairos.com).
 
-<div style="height: 300px; display: flex; align-items: center; justify-content: center;">
+<div style="height: 150px; display: flex; align-items: center; justify-content: center;">
     <img src="assets/images/logo.png" />
 </div>
 
