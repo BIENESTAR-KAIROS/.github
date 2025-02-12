@@ -17,3 +17,11 @@ Aquí llevamos el control y desarollo de los productos que ofrecemos en KAIROS p
 </div>
 
 [Kairos](bienestarkairos.com) _by_ [Siatsa](siatsa.com). Somos una empresa enfocada en la salud mental de nuestros __clientes__ e __instituciones__.
+
+## Proyectos
+
+### Escanor Bienestar KAIROS
+
+[Escanor-Bienestar KAIROS](https://github.com/BIENESTAR-KAIROS/escanor-bienestarkairos) es el repo donde manejamos el backend de nuestra aplicación.
+
+Está montado en NestJS usando typescript para mantener un _Type Driven Development_.
