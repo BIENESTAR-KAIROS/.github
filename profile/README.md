@@ -25,3 +25,9 @@ Aquí llevamos el control y desarollo de los productos que ofrecemos en KAIROS p
 [Escanor-Bienestar KAIROS](https://github.com/BIENESTAR-KAIROS/escanor-bienestarkairos) es el repo donde manejamos el backend de nuestra aplicación.
 
 Está montado en NestJS usando typescript para mantener un _Type Driven Development_.
+
+## ¿Porqué KAIROS?
+
+___Kairós___ es una palabra griega que significa "momento oportuno" o "tiempo adecuado". Es un concepto filosófico que se refiere a un lapso de tiempo en el que sucede algo importante.
+
+Y es por ello que con nuestros servicios queremos lograr ayudar de manera oportuna a nuestros clientes en temas de salud mental.
